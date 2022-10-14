@@ -4,13 +4,13 @@ body{
 }
 
 header{
-    color: #730cc8;
+    color: #ffffff;
     text-align: center;
     align-content:center;
     border-radius: 5px;
     margin-bottom: 10px;
     padding: 10px;
-    background-color: rgb(57, 223, 80); 
+    background-color: rgb(193, 174, 9); 
     border: 2px solid rgb(147, 135, 26);
     box-shadow: 1px 1px 3px 0 #000;
     
