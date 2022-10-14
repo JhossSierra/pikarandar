@@ -85,3 +85,22 @@ img{width: 120px;}
     background-color: rgb(195, 238, 246);   
 }
 
+.container.container__fairy{
+    color: rgb(255, 255, 255);
+    background-color: rgb(241, 22, 226);    
+}
+
+.container.container__dragon{
+    color: rgb(255, 255, 255);
+    background-color: rgb(130, 87, 150);    
+}
+
+.container.container__psychic{
+    color: rgb(255, 255, 255);
+    background-color: rgb(179, 10, 231);    
+}
+
+.container.container__dark{
+    color: rgb(255, 255, 255);
+    background-color: rgb(44, 27, 67);    
+}
